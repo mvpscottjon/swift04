@@ -14,9 +14,28 @@ import Foundation
 
 //tupleSwitch2()
 
-caseWhere()
+//caseWhere()
 
 
+
+
+
+
+/////////// if 裡面
+
+
+//isif()
+
+
+//if2()
+
+//if2Prac()
+
+
+//if3()
+
+
+//if3Prac()
 
 //*********
 //var dice = Array.init(repeatElement(0, count: 6))  //[0,0,0,0,0,0]  => Array<Int>
