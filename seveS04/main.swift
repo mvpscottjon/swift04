@@ -1,12 +1,20 @@
 import Foundation
 
+
+//********myswitch 裡面
 //myswitch1()
 
 //myswichPrac()
 
+//monthswitch()
 
+//scoreSwitch()
 
+//tupleSwitch()
 
+//tupleSwitch2()
+
+caseWhere()
 
 
 
